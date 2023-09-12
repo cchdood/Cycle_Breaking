@@ -1,0 +1,28 @@
+This is README file for Algorithm PA#3
+Author: <YU-AN, CHEN B10703014>
+Date: 12/29
+=====
+SYNOPSIS:
+
+./cb <input_file_name> <output_file_name>
+
+This program solves the minimum cycle breaking set of a directed/undirected graph.
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  reports
+inputs/   input data
+outputs/  output result
+src/ 	  source C++ codes
+utility/  checker
+======
+HOW TO COMPILE:
+
+simply follow the following steps
+	make
+======
+HOW TO RUN:
+
+    cd bin/
+	./cb <input_file_name> <output_file_name>
